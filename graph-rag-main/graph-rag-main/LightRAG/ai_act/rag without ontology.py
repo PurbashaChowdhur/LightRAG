@@ -24,7 +24,7 @@ if not os.path.exists(WORKING_DIR):
 print(f"WorkingDir: {WORKING_DIR}")
 
 os.environ["REDIS_URI"] = ""
-# openai.api_key = os.environ["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"]
+# openai.api_key = os.environ[""]
 os.environ["OPENAI_API_KEY"] = ""
 # neo4j
 BATCH_SIZE_NODES = 500
