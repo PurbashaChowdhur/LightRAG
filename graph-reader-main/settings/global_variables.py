@@ -17,7 +17,7 @@ NEO4J_USERNAME = "neo4j"
 NEO4J_PASSWORD = "password"
 
 # OpenAI
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 MODEL = "gpt-4o-mini"
 EMBEDDING_OPENAI = "text-embedding-3-small"
 EMBEDDING_DIMENSION = 512
