@@ -1,0 +1,82 @@
+{
+    "q1": {
+        "question": "What risk categories are provided for AI systems?",
+        "answer": "The AI Act establishes a risk-based framework, categorising AI systems based on their potential for harm. Here's the risk categories: Unacceptable Risk, High Risk, Limited risk and Minimal risk.",
+        "references": {
+            "articles" : ["3(39)", "3(40)", "3(41)", "5(1)", "6(1)", "6(2)", "50(1)", "50(2)"],
+            "recitals" : ["26", "50", "52", "54", "55", "56", "57", "58", "59", "61", "64", "66", "132", "165"]
+        }
+    },
+    "q2": {
+        "question": "What types of AI systems or practices are explicitly prohibited by the AI Act?",
+        "answer": "Subliminal techniques beyond a person's consciousness to materially distort behaviour in a way that causes harm. Exploiting vulnerabilities of specific groups (e.g., age, disability) to materially distort behaviour and cause harm. Social scoring systems leading to detrimental treatment in unrelated social contexts or disproportionate treatment. Real-time remote biometric identification systems in publicly accessible spaces for law enforcement purposes, except for specific exceptions. AI systems used by or on behalf of law enforcement to make risk assessments for predicting criminal offenses based solely on profiling or personality traits.",
+        "references": {
+            "articles" : ["5"],
+            "recitals" : []
+        }
+    },
+    "q3": {
+        "question": "What is the definition of high risk?",
+        "answer": "The AI Act defines 'high risk' in the context of AI systems that pose significant risks to the health and safety or the fundamental rights of persons. This determination considers both the severity of the possible harm and the probability of its occurrence. The Act specifically outlines two main categories of high-risk AI systems: AI Systems Integrated into Products and Stand-alone High-Risk AI Systems. See Annex III.",
+        "references": {
+            "articles" : ["6"],
+            "recitals" : []
+        }
+    },
+    "q4": {
+        "question": "Which sectors or applications are considered high-risk under the regulation?",
+        "answer": "Irrespective of whether an AI system is placed on the market or put into service independently of the products referred to in points (a) and (b), that AI system shall be considered to be high-risk where both of the following conditions are fulfilled: (a) the AI system is intended to be used as a safety component of a product, or the AI system is itself a product, covered by the Union harmonisation legislation listed in Annex I; (b) the product whose safety component pursuant to point (a) is the AI system, or the AI system itself as a product, is required to undergo a third-party conformity assessment, with a view to the placing on the market or the putting into service of that product pursuant to the Union harmonisation legislation listed in Annex I. 2. In addition to the high-risk AI systems referred to in paragraph 1, AI systems referred to in Annex III shall be considered to be high-risk.",
+        "references": {
+            "articles" : ["6"],
+            "recitals" : []
+        }
+    },
+    "q5": {
+        "question": "How should users be informed when interacting with AI systems?",
+        "answer": "When interacting with an AI system, natural persons should be informed that they are interacting with an AI system unless it is obvious to a reasonably well-informed person. This obligation does not apply to AI systems used for law enforcement purposes, unless those systems are available to the public for reporting criminal offences. Deployers of emotion recognition or biometric categorisation systems should inform natural persons exposed to the system of its operation. This obligation does not apply to AI systems used for biometric categorisation and emotion recognition that are permitted to detect, prevent or investigate criminal offences, subject to safeguards for the rights and freedoms of third parties, and in accordance with Union law. Deployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated. Information should be provided to the natural persons concerned in a clear and distinguishable manner at the latest at the time of the first interaction or exposure. This information should conform to the applicable accessibility requirements.",
+        "references": {
+            "articles" : ["50"],
+            "recitals" : []
+        }
+    },
+    "q6": {
+        "question": "What are AI systems with minimal risks?",
+        "answer": "While the regulation centred on high-risk AI systems and general-purpose AI models with systemic risks, it specifies that AI systems may be developed for purposes that do not pose significant risks to health, safety, or fundamental rights. These include: An AI system that transforms unstructured data into structured data; An AI system that classifies incoming documents into categories; An AI system used to detect duplicates among a large number of applications; An AI system that improves the language used in documents without changing their substance; An AI system that detects decision-making patterns or deviations from prior patterns; An AI system that performs tasks preparatory to an assessment.",
+        "references": {
+            "articles" : [],
+            "recitals" : ["53"]
+        }
+    },
+    "q7": {
+        "question": "What are the guiding principles established by the AI Act?",
+        "answer": "Protection of fundamental rights, including democracy, the rule of law and environmental protection, health, and safety.",
+        "references": {
+            "articles" : [],
+            "recitals" : ["1", "7", "48"]
+        }
+    },
+    "q8": {
+        "question": "What is the definition of a \"system of artificial intelligence\"?",
+        "answer": "A machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments",
+        "references": {
+            "articles" : ["3(1)"],
+            "recitals" : []
+        }
+    },
+    "q9": {
+        "question": "What are the penalties for violating the provisions of the regulation for high-risk AI systems?",
+        "answer": "Non-compliance with Obligations for High-Risk Systems and transparency obligations for providers and deployers: Breaches of other provisions concerning high-risk AI systems can result in administrative fines of up to €15,000,000 or 3% of the offender's total worldwide annual turnover.",
+        "references": {
+            "articles" : ["99"],
+            "recitals" : []
+        }
+    },
+    "q10": {
+        "question": "What is the difference between the deployer and the provider?",
+        "answer": "The Provider is a natural or legal person, public authority, agency or other body that develops an AI system or a general-purpose AI model or that has an AI system or a general-purpose AI model developed and places it on the market or puts the AI system into service under its own name or trademark, whether for payment or free of charge. The Deployer is a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity”. The provider bears the primary responsibility for ensuring the AI system complies with the requirements of the AI Act, especially if it is classified as a high-risk system. The deployer is the entity that uses the AI system for its intended purpose.",
+        "references": {
+            "articles" : ["3(3)", "3(4)", "16"],
+            "recitals" : []
+        }
+    }
+}

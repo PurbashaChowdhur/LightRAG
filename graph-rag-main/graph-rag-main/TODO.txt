@@ -1,0 +1,13 @@
+Aggiungere la valutazione:
+Ricordare la domanda, la risposta e l'intero della valutazione
+Inserire un'altra API POST per salvare queste tre cose
+
+Credentials viene passato come dizionario json
+
+TODO
+1) Migliorare la questione del JSON.. ora lo inseriamo ogni volta, sarebbe da collegare con volumes (chiedere Alberto)
+2) Mostrare messaggio dopo aver inserito la valutazione
+3) Modelli tra cui scegliere: lightRAG, GraphReader per ora
+4) Mostrare widget caricamento mentre si aspetta la risposta | FATTO
+5) Fare uno script che legge da MINIO e scrive su MongoDB(creare una nuova collezione). 
+   Per leggere le risposte inserite su minio e riportarle su MongoDB.

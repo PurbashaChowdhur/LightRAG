@@ -1,0 +1,7 @@
+__pycache__
+docker/volumes
+.DS_Store
+graph_reader/__pycache__
+light_rag/__pycache__
+graph_reader/logs
+graph_reader/output

@@ -1,0 +1,47 @@
+{
+    "full_id": "Art. 15",
+    "id": 15,
+    "content": "\n\n\n\n1. Il CSIRT Italia, fermo restando quanto previsto dal decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109: \n\na) è l'organo preposto alle funzioni di gestione degli incidenti di sicurezza informatica per i settori, i sottosettori e le tipologie di soggetti di cui agli allegati I, II, III e IV, conformemente a modalità e procedure definite dal CSIRT stesso; \n\nb) dispone di un'infrastruttura di informazione e comunicazione appropriata, sicura e resiliente a livello nazionale attraverso la quale scambiare informazioni con i soggetti essenziali o importanti e con gli altri portatori di interesse pertinenti; \n\nc) coopera e, se opportuno, scambia informazioni pertinenti conformemente all'articolo 17 con comunità settoriali o intersettoriali di soggetti essenziali e di soggetti importanti; \n\nd) partecipa alla revisione tra pari di cui all'articolo 21; \n\ne) garantisce la collaborazione effettiva, efficiente e sicura, nella Rete di CSIRT nazionali di cui all'articolo 20; \n\nf) ai sensi dell'articolo 7, comma 1, lettera s), del decreto-legge n. 82 del 2021, può stabilire relazioni di cooperazione con gruppi nazionali di risposta agli incidenti di sicurezza informatica di Paesi terzi. Nell'ambito di tali relazioni di cooperazione, facilita uno scambio di informazioni efficace, efficiente e sicuro con tali CSIRT nazionali, o strutture nazionali equivalenti di Paesi terzi, utilizzando i pertinenti protocolli di condivisione delle informazioni, ivi inclusi quelli adottati e sviluppati dalle principali comunità nazionali, europee e internazionali del settore. Il CSIRT Italia può scambiare informazioni pertinenti con Gruppi nazionali di risposta agli incidenti di sicurezza informatica di Paesi terzi o con organismi equivalenti di Paesi terzi, compresi dati personali ai sensi della normativa nazionale vigente e del diritto dell'Unione europea in materia di protezione dei dati personali; \n\ng) ai sensi dell'articolo 7, comma 1, lettera s), del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, può cooperare con Gruppi nazionali di risposta agli incidenti di sicurezza informatica di Paesi terzi o con organismi equivalenti di Paesi terzi, in particolare al fine di fornire loro assistenza in materia di sicurezza informatica. \n\n\n\n\n\n\n2. Il CSIRT Italia: \n\na) è dotato di un alto livello di disponibilità dei propri canali di comunicazione evitando singoli punti di malfunzionamento e dispone di mezzi che gli permettono di essere contattato e di contattare i soggetti essenziali o importanti e altri CSIRT nazionali in qualsiasi momento. Il CSIRT Italia indica chiaramente i canali di comunicazione e li rende noti ai soggetti essenziali e importanti e agli altri CSIRT nazionali; \n\nb) dispone di locali e sistemi informativi di supporto ubicati in siti sicuri; \n\nc) utilizza un sistema adeguato di gestione e inoltro delle richieste, in particolare per facilitare i trasferimenti in maniera efficace ed efficiente; \n\nd) garantisce la riservatezza e l'affidabilità delle proprie attività; \n\ne) è dotato di sistemi ridondanti e spazi di lavoro di backup al fine di garantire la continuità dei propri servizi; \n\nf) partecipa, se del caso, a reti di cooperazione internazionale. \n\n\n\n\n\n\n3. Il CSIRT Italia svolge i seguenti compiti: \n\na) monitora e analizza le minacce informatiche, le vulnerabilità e gli incidenti a livello nazionale e, su richiesta, fornisce assistenza ai soggetti essenziali e ai soggetti importanti interessati per quanto riguarda il monitoraggio in tempo reale o prossimo al reale dei loro sistemi informativi e di rete, secondo un ordine di priorità delle attività definito dal medesimo CSIRT Italia, onde evitare oneri sproporzionati o eccessivi; \n\nb) emette preallarmi, allerte e bollettini e divulga informazioni ai soggetti essenziali e ai soggetti importanti interessati, nonché alle autorità nazionali competenti e agli altri pertinenti portatori di interessi, in merito a minacce informatiche, vulnerabilità e incidenti, se possibile in tempo prossimo al reale; \n\nc) fornisce una risposta agli incidenti e assistenza ai soggetti essenziali e ai soggetti importanti interessati, ove possibile; \n\nd) raccoglie e analizza dati forensi e fornisce un'analisi dinamica dei rischi e degli incidenti, nonché una consapevolezza situazionale riguardo alla sicurezza informatica; \n\ne) effettua, su richiesta di un soggetto essenziale o importante, secondo modalità e procedure definite, una scansione proattiva dei sistemi informativi e di rete del soggetto interessato per rilevare le vulnerabilità con potenziale impatto significativo; \n\nf) partecipa alla Rete di CSIRT nazionali di cui all'articolo 20 e fornisce assistenza reciproca secondo le proprie capacità e competenze agli altri membri della Rete di CSIRT nazionali su loro richiesta; \n\ng) agisce in qualità di coordinatore ai fini del processo di divulgazione coordinata delle vulnerabilità di cui all'articolo 16; \n\nh) contribuisce allo sviluppo di strumenti sicuri per la condivisione delle informazioni di cui al comma 1, lettera b); \n\ni) può effettuare, secondo modalità e procedure definite, una scansione proattiva e non intrusiva dei sistemi informativi e di rete accessibili al pubblico di soggetti essenziali e di soggetti importanti. Tale scansione è effettuata per individuare sistemi informativi e di rete vulnerabili o configurati in modo non sicuro e per informare i soggetti interessati. Tale scansione non ha alcun impatto negativo sul funzionamento dei servizi dei soggetti. \n\n\n\n\n4. Il CSIRT Italia applica un approccio basato sul rischio per stabilire l'ordine di priorità nello svolgimento dei compiti di cui al comma 3. \n\n\n\n5. In caso di eventi malevoli per la sicurezza informatica, le strutture pubbliche con funzione di computer emergency response team (CERT) collaborano con il CSIRT Italia, anche ai fini di un più efficace coordinamento della risposta agli incidenti. \n\n\n\n6. Il CSIRT Italia instaura rapporti di cooperazione con i pertinenti portatori di interesse nazionali del settore privato al fine di perseguire gli obiettivi del presente decreto in relazione alle proprie competenze. \n\n\n\n\n\n7. Al fine di agevolare la cooperazione di cui al comma 5, il CSIRT Italia promuove l'adozione e l'uso di pratiche, sistemi di classificazione e tassonomie standardizzati o comuni per quanto riguarda: \n\na) le procedure di gestione degli incidenti; \n\nb) la divulgazione coordinata delle vulnerabilità ai sensi dell'articolo 16. \n\n\n\n\n8. Ai fini dell'attuazione del presente articolo è autorizzata la spesa pari a euro 2.000.000 annui a decorrere dall'anno 2025, a cui si provvede ai sensi dell'articolo 44. \n\n\n",
+    "title": "",
+    "links": [
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021",
+            "number": "82",
+            "article": "art7"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art7"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art7"
+        }
+    ]
+}

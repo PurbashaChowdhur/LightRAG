@@ -1,0 +1,37 @@
+[client]
+showErrorDetails = "none"
+toolbarMode = "minimal"
+
+[theme]
+textColor = "#4A51B0"
+primaryColor = "#4A51B0"
+font = "Lato"
+baseFontSize = 14
+#primaryColor = "#FFFFFF"
+#backgroundColor = "#4850BA"
+
+[[theme.fontFaces]]
+family = "Lato"
+url = "app/static/lato-v20-latin-700.woff"
+weight = 300
+style = "normal"
+
+[theme.sidebar]
+backgroundColor = "#6E80D1"
+textColor = "#FFFFFF"
+
+[logger]
+# Level of logging for Streamlit's internal logger: "error", "warning",
+# "info", or "debug".
+# Default: "info"
+level = "debug"
+
+# String format for logging messages. If logger.datetimeFormat is set,
+# logger messages will default to `%(asctime)s.%(msecs)03d %(message)s`.
+# See Python's documentation for available attributes:
+# https://docs.python.org/3/library/logging.html#formatter-objects
+# Default: "%(asctime)s %(message)s"
+messageFormat = "%(asctime)s %(message)s"
+
+[server]
+enableStaticServing = true

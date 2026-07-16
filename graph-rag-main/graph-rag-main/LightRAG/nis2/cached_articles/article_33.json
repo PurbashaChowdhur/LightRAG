@@ -1,0 +1,132 @@
+{
+    "full_id": "Art. 33",
+    "id": 33,
+    "content": "\n\n\n\n1. Ai fini dell'articolo 4: \n\na) gli obblighi di gestione del rischio per la sicurezza informatica e di notifica di incidente previsti dal decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, sono considerati almeno equivalenti a quelli previsti dal presente decreto; \n\nb) alle reti, ai sistemi informativi e ai servizi informatici inseriti nell'elenco di cui all'articolo 1, comma 2, lettera b), del decreto-legge n. 105 del 2019, non si applicano le disposizioni di cui al presente decreto. Restano fermi gli obblighi del presente decreto per i sistemi informativi e di rete diversi da quelli di cui al primo periodo; \n\nc) i soggetti di cui all'articolo 1, comma 2-bis, del decreto-legge n. 105 del 2019, non sono sottoposti agli obblighi di notifica di cui all'articolo 25 del presente decreto per gli incidenti riconducibili a una notifica effettuata ai sensi dell'articolo 1, comma 3, del medesimo decreto-legge; \n\nd) le informazioni attinenti ai soggetti di cui all'articolo 1, comma 2-bis, del decreto-legge n. 105 del 2019, ovvero trasmesse da questi ultimi all'Agenzia per la cybersicurezza nazionale ai sensi del presente decreto, possono essere escluse dagli obblighi di comunicazione di cui all'articolo 22. \n\n\n\n",
+    "title": "Coordinamento con la disciplina del perimetro di sicurezza nazionale cibernetica",
+    "links": [
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2019-09-21",
+            "number": "105"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2019-11-18",
+            "number": "133"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2019",
+            "number": "105",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2019",
+            "number": "105",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2019",
+            "number": "105",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2019",
+            "number": "105"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2019-11-18",
+            "number": "133"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art4"
+        },
+        {
+            "law_maker": "presidente.consiglio",
+            "source": "decreto",
+            "date": "2020-07-30",
+            "number": "131"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2005-03-07",
+            "number": "82",
+            "article": "art29"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2005-03-07",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2005-07-27",
+            "number": "144",
+            "article": "art7"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2005-07-31",
+            "number": "155"
+        },
+        {
+            "law_maker": "presidente.consiglio",
+            "source": "decreto",
+            "date": "2020",
+            "number": "131"
+        }
+    ]
+}

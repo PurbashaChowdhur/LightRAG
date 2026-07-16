@@ -1,0 +1,20 @@
+Per costruire il lightrag:
+docker build -f docker/streamlit/Dockerfile -t ai_act_lightrag .
+
+Per costruire il fastAPI:
+docker build -f docker/fastapi/Dockerfile -t ai_act_fastapi .
+
+Per lanciare:
+docker-compose -f docker/docker-compose.yaml up -d
+
+Per stoppare:
+docker-compose -f docker/docker-compose.yaml down -v
+
+Togliere la -v per far sì che i file all'interno del DB MongoDB non vengano cancellati.
+
+Per eliminare immagini inutili, usare questo comando:
+docker system prune -af
+
+Per esportare la porta per le due FastAPI per i RAG:
+export FAST_API_LIGHTRAG_ENDPOINT=http://localhost:8888
+export FAST_API_GRAPHREADER_ENDPOINT=http://localhost:8889

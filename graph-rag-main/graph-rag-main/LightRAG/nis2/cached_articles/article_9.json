@@ -1,0 +1,204 @@
+{
+    "full_id": "Art. 9",
+    "id": 9,
+    "content": "\n\n1. La Strategia nazionale di cybersicurezza individua gli obiettivi strategici e le risorse necessarie per conseguirli, nonché adeguate misure strategiche e normative al fine di raggiungere e mantenere un livello elevato di cybersicurezza. \n\n\n\n\n\n2. La Strategia nazionale di cybersicurezza comprende almeno: \n\na) gli obiettivi e le priorità, che riguardano in particolare i settori di cui agli allegati I, II, III e IV; \n\nb) un quadro di governance per la realizzazione degli obiettivi e delle priorità di cui alla lettera a), comprendente le misure strategiche di cui al comma 3; \n\nc) un quadro di governance che chiarisca i ruoli e le responsabilità dei pertinenti portatori di interessi a livello nazionale, a sostegno della cooperazione e del coordinamento a livello nazionale tra le Autorità di settore NIS, l'Agenzia per la cybersicurezza nazionale, in qualità di Autorità nazionale competente NIS, di Punto di contatto unico NIS e di CSIRT Italia, nonché il coordinamento e la cooperazione tra tali organismi e le altre autorità competenti ai sensi degli atti giuridici settoriali dell'Unione europea; \n\nd) un meccanismo per individuare le risorse e una valutazione dei rischi a livello nazionale; \n\ne) l'individuazione delle misure volte a garantire la preparazione e la risposta agli incidenti e il successivo recupero dagli stessi, inclusa la collaborazione tra i settori pubblico e privato; \n\nf) un elenco delle diverse autorità e dei diversi portatori di interessi coinvolti nell'attuazione della strategia nazionale per la cybersicurezza; \n\ng) un quadro strategico per il coordinamento rafforzato tra le autorità competenti ai sensi del presente decreto e le autorità competenti di cui al decreto legislativo di recepimento della direttiva (UE) 2022/2557 ai fini della condivisione delle informazioni sui rischi, le minacce e gli incidenti sia informatici che non informatici e dello svolgimento di compiti di vigilanza, in modo adeguato; \n\nh) un piano, comprendente le misure necessarie, per aumentare il livello generale di consapevolezza dei cittadini in materia di sicurezza informatica. \n\n\n\n\n\n\n3. Nell'ambito della strategia nazionale per la cybersicurezza, sono previste, inoltre, le seguenti misure strategiche: \n\na) la sicurezza informatica nella catena di approvvigionamento dei prodotti e dei servizi TIC utilizzati dai soggetti per la fornitura dei loro servizi; \n\nb) l'inclusione e la definizione di requisiti concernenti la sicurezza informatica per i prodotti e i servizi TIC negli appalti pubblici, compresi i requisiti relativi alla certificazione della cybersicurezza, alla cifratura e all'utilizzo di prodotti di sicurezza informatica open source; \n\nc) la gestione delle vulnerabilità, ivi comprese la promozione e l'agevolazione della divulgazione coordinata delle vulnerabilità di cui all'articolo 16; \n\nd) il sostegno della disponibilità generale, dell'integrità e della riservatezza del nucleo pubblico della rete internet aperta, compresa, se del caso, la sicurezza informatica dei cavi di comunicazione sottomarini; \n\ne) la promozione dello sviluppo e dell'integrazione di tecnologie avanzate rilevanti, volte ad attuare misure all'avanguardia nella gestione dei rischi per la sicurezza informatica; \n\nf) la promozione e lo sviluppo di attività di istruzione, formazione e sensibilizzazione, di competenze e di iniziative di ricerca e sviluppo in materia di sicurezza informatica, nonché orientamenti sulle buone pratiche e sui controlli concernenti l'igiene informatica, destinati ai cittadini, ai portatori di interessi e ai soggetti essenziali e importanti; \n\ng) il sostegno agli istituti accademici e di ricerca volto a sviluppare, rafforzare e promuovere la diffusione di strumenti di sicurezza informatica e di infrastrutture di rete sicure; \n\nh) la messa a punto di procedure pertinenti e strumenti adeguati di condivisione delle informazioni per sostenere la condivisione volontaria di informazioni sulla sicurezza informatica tra soggetti, nel rispetto del diritto dell'Unione europea; \n\ni) il rafforzamento dei valori di riferimento relativi alla resilienza e all'igiene informatica delle piccole e medie imprese, in particolare quelle escluse dall'ambito di applicazione del presente decreto, fornendo orientamenti e sostegno facilmente accessibili per le loro esigenze specifiche; \n\nl) la promozione di una protezione informatica attiva. \n\n\n\n\n4. Ferme restando le funzioni del Presidente del Consiglio dei ministri di cui all'articolo 2, commi 1 e 2, del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, l'Agenzia per la cybersicurezza nazionale provvede ai sensi dell'articolo 7 del citato decreto-legge n. 82 del 2021, sentite le amministrazioni componenti il Nucleo per la cybersicurezza, alla periodica valutazione della Strategia nazionale di cybersicurezza, nonché al suo aggiornamento ove necessario e comunque almeno ogni cinque anni sulla base di indicatori chiave di prestazione, proponendone l'adozione al Presidente del Consiglio dei ministri con le modalità di all'articolo 2, comma 1, lettera b), del medesimo decreto-legge. \n\n\n",
+    "title": " Strategia nazionale di cybersicurezza",
+    "links": [
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art2"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art2"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art30"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1981-04-01",
+            "number": "121"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124",
+            "article": "art4"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124"
+        },
+        {
+            "law_maker": "presidente.consiglio",
+            "source": "decreto",
+            "date": "2020-07-30",
+            "number": "131"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259",
+            "article": "art16"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259",
+            "article": "art16"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2012-03-15",
+            "number": "21",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-05-11",
+            "number": "56"
+        },
+        {
+            "law_maker": "presidente.consiglio",
+            "source": "decreto",
+            "date": "2020",
+            "number": "131"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art4"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2005-03-07",
+            "number": "82",
+            "article": "art51"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2012-10-18",
+            "number": "179",
+            "article": "art33"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-17",
+            "number": "221"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art9"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2012-10-18",
+            "number": "179",
+            "article": "art33"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-17",
+            "number": "221"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art4"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art6"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art7"
+        },
+        {
+            "law_maker": "",
+            "source": "regolamento",
+            "date": "2021",
+            "number": "887",
+            "article": "art12"
+        }
+    ]
+}

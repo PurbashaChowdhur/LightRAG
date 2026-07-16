@@ -1,0 +1,5 @@
+__pycache__/*
+ai_act_lightrag/docker/volumes/minio/mongodb/diagnostic.data/*
+ai_act_lightrag/docker/volumes/minio/mongodb/journal/*
+ai_act_lightrag/docker/volumes/minio/storage/.minio.sys/buckets/*
+ai_act_lightrag/docker/volumes/minio/storage/.minio.sys/tmp/*

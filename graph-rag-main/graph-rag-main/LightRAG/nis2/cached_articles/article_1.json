@@ -1,0 +1,657 @@
+{
+    "full_id": "Art. 1",
+    "id": 1,
+    "content": "\n\n1. Il presente decreto stabilisce misure volte a garantire un livello elevato di sicurezza informatica in ambito nazionale, contribuendo ad incrementare il livello comune di sicurezza nell'Unione europea in modo da migliorare il funzionamento del mercato interno. \n\n\n\n\n\n2. Ai fini del comma 1, il presente decreto prevede: \n\na) la Strategia nazionale di cybersicurezza, recante previsioni volte a garantire un livello elevato di sicurezza informatica; \n\nb) l'integrazione del quadro di gestione delle crisi informatiche, nel contesto dell'organizzazione nazionale per la gestione delle crisi che coinvolgono aspetti di cybersicurezza, di cui all'articolo 10 del decreto-legge 4 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109; \n\nc) la conferma dell'Agenzia per la cybersicurezza nazionale quale: \n 1) Autorità nazionale competente NIS, disciplinandone i poteri inerenti all'implementazione e all'attuazione del presente decreto; \n 2) Punto di contatto unico NIS, assicurando il raccordo nazionale e transfrontaliero; \n 3) Gruppo di intervento nazionale per la sicurezza informatica in caso di incidente in ambito nazionale (CSIRT Italia); \n\nd) la designazione dell'Agenzia per la cybersicurezza nazionale, con funzioni di coordinatore ai sensi dell'articolo 9, paragrafo 2, della direttiva (UE) 2022/2555, e del Ministero della difesa, ciascuno per gli ambiti di competenza indicati all'articolo 2, comma 1, lettera g), quali Autorità nazionali di gestione delle crisi informatiche su vasta scala, assicurando la coerenza con il quadro nazionale esistente in materia di gestione generale delle crisi informatiche, fermi restando i compiti del Nucleo per la cybersicurezza di cui all'articolo 9 del decreto-legge 14 giugno 2021, n. 82; \n\ne) l'individuazione di Autorità di settore NIS che collaborano con l'Agenzia per la cybersicurezza nazionale, supportandone le funzioni svolte quale Autorità nazionale competente NIS e Punto di contatto unico NIS; \n\nf) l'indicazione dei criteri per l'individuazione dei soggetti a cui si applica il presente decreto e la definizione dei relativi obblighi in materia di misure di gestione dei rischi per la sicurezza informatica e di notifica di incidente; \n\ng) l'adozione di misure in materia di cooperazione e di condivisione delle informazioni ai fini dell'applicazione del presente decreto, in particolare, attraverso la partecipazione nazionale a livello dell'Unione europea: \n 1) al Gruppo di cooperazione NIS tra autorità competenti NIS e tra punti di contatto unici degli Stati membri dell'Unione europea, nell'ottica di incrementare la fiducia e la collaborazione a livello unionale; \n 2) alla Rete delle organizzazioni di collegamento per le crisi informatiche (EU-CyCLONe) al fine di sostenere la gestione coordinata a livello operativo degli incidenti e delle crisi cibernetiche su vasta scala e di garantire il regolare scambio di informazioni pertinenti tra gli Stati membri e le istituzioni, gli organi e gli organismi dell'Unione europea; \n 3) alla Rete di CSIRT nazionali nell'ottica di assicurare una cooperazione, sul piano tecnico, rapida ed efficace. \n\n\n\n",
+    "title": " Oggetto",
+    "links": [
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art76"
+        },
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art87"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1988-08-23",
+            "number": "400"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-24",
+            "number": "234"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2024-02-21",
+            "number": "15"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-06-30",
+            "number": "196"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-06-30",
+            "number": "196"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2005-03-07",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2005-03-07",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2005-07-27",
+            "number": "144"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2005-07-31",
+            "number": "155"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2011-06-23",
+            "number": "118"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2009-05-05",
+            "number": "42",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2009-05-05",
+            "number": "42",
+            "article": "art2"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2012-06-22",
+            "number": "83"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-08-07",
+            "number": "134"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2014-03-04",
+            "number": "39"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2015-10-30",
+            "number": "174"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2015-12-11",
+            "number": "198"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2018-05-18",
+            "number": "65"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2019-09-21",
+            "number": "105"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2019-11-18",
+            "number": "133"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2024-06-28",
+            "number": "90"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2024",
+            "number": "15",
+            "article": "art5"
+        },
+        {
+            "law_maker": "presidente.consiglio",
+            "source": "decreto",
+            "date": "2015-11-06",
+            "number": "5"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2024",
+            "number": "15",
+            "article": "art3"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "1997-08-28",
+            "number": "281",
+            "article": "art8"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-04",
+            "number": "82",
+            "article": "art10"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art9"
+        },
+        {
+            "law_maker": "presidente.repubblica",
+            "source": "decreto",
+            "date": "1985-12-28",
+            "number": "1092"
+        },
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art76"
+        },
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art87"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1988-08-23",
+            "number": "400",
+            "article": "art14"
+        },
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art76"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-24",
+            "number": "234",
+            "article": "art31"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-24",
+            "number": "234",
+            "article": "art32"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1988-08-23",
+            "number": "400",
+            "article": "art14"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2009-12-31",
+            "number": "196",
+            "article": "art17"
+        },
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art81"
+        },
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art117"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2005-11-28",
+            "number": "246",
+            "article": "art14"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2005-11-28",
+            "number": "246",
+            "article": "art14"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2005-11-28",
+            "number": "246",
+            "article": "art14"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2000-08-28",
+            "number": "274",
+            "article": "art53"
+        },
+        {
+            "law_maker": "stato",
+            "source": "codice.penale",
+            "date": "1930-10-19",
+            "number": "1398"
+        },
+        {
+            "law_maker": "stato",
+            "source": "codice.penale",
+            "date": "1930-10-19",
+            "number": "1398",
+            "article": "art240"
+        },
+        {
+            "law_maker": "stato",
+            "source": "codice.penale",
+            "date": "1930-10-19",
+            "number": "1398",
+            "article": "art240"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1981-11-24",
+            "number": "689",
+            "article": "art20"
+        },
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art117"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2024-02-21",
+            "number": "15",
+            "article": "art3"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-24",
+            "number": "234",
+            "article": "art32"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2018-05-18",
+            "number": "65",
+            "article": "art8"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2018-05-18",
+            "number": "65"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-24",
+            "number": "234",
+            "article": "art32"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1981-11-24",
+            "number": "689"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art18"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2011-06-23",
+            "number": "118",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2011-06-23",
+            "number": "118",
+            "article": "art2"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2009-05-05",
+            "number": "42",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2009-05-05",
+            "number": "42",
+            "article": "art2"
+        },
+        {
+            "law_maker": "stato",
+            "source": "costituzione",
+            "date": "1947-12-27",
+            "article": "art117"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2000-08-18",
+            "number": "267",
+            "article": "art2"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2000-08-18",
+            "number": "267",
+            "article": "art114"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2000-08-18",
+            "number": "267",
+            "article": "art2"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2000-08-18",
+            "number": "267",
+            "article": "art114"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2012-06-22",
+            "number": "83",
+            "article": "art19"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-08-07",
+            "number": "134"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "1999-07-30",
+            "number": "300",
+            "article": "art8"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "1999-07-30",
+            "number": "300",
+            "article": "art9"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2024-02-21",
+            "number": "15"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-24",
+            "number": "234",
+            "article": "art32"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2018-05-18",
+            "number": "65",
+            "article": "art8"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2018-05-18",
+            "number": "65"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2012-12-24",
+            "number": "234",
+            "article": "art32"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1981-11-24",
+            "number": "689"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art18"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "1997-08-28",
+            "number": "281",
+            "article": "art8"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1990-06-08",
+            "number": "142",
+            "article": "art17"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art9"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art10"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2015-10-30",
+            "number": "174",
+            "article": "art7"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2015-12-11",
+            "number": "198"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art4"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art6"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art7"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2005-07-27",
+            "number": "144",
+            "article": "art7"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2005-07-31",
+            "number": "155"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2015-10-30",
+            "number": "174",
+            "article": "art7"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2015-12-11",
+            "number": "198"
+        }
+    ]
+}

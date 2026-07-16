@@ -1,0 +1,32 @@
+{
+    "q1": {
+        "question": "What criteria exist for assessing the risk of an AI system?"
+    },
+    "q2": {
+        "question": "What are the sanctions for violating the provisions of the regulation for transparency-risk systems?"
+    },
+    "q3": {
+        "question": "What obligations exist for deployers of high-risk AI systems?"
+    },
+    "q4": {
+        "question": "What requirements must AI systems classified as high-risk meet?"
+    },
+    "q5": {
+        "question": "What obligations do providers of high-risk AI systems have in terms of transparency and technical documentation?"
+    },
+    "q6": {
+        "question": "What does a conformity assessment consist of?"
+    },
+    "q7": {
+        "question": "What does systemic-risk mean?"
+    },
+    "q8": {
+        "question": "What is the definition of General-purpose AI?"
+    },
+    "q9": {
+        "question": "What are the components of a quality management system?"
+    },
+    "q10": {
+        "question": "What are the requirements for documenting bias mitigation measures in AI models?"
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "full_id": "Art. 2",
+    "id": 2,
+    "content": "\n\n\n\n1. Ai fini del presente decreto si applicano le definizioni seguenti: \n\na) «Strategia nazionale di cybersicurezza»: il quadro coerente che prevede gli obiettivi strategici e le priorità in materia di cybersicurezza, nonché la governance per il loro conseguimento, di cui all'articolo 9; \n\nb) «Agenzia per la cybersicurezza nazionale»: l'Agenzia per la cybersicurezza nazionale di cui all'articolo 5, comma 1, del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109; \n\nc) «Nucleo per la cybersicurezza»: il Nucleo per la cybersicurezza di cui all'articolo 8 del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109; \n\nd) «Autorità nazionale competente NIS»: l'Agenzia per la cybersicurezza nazionale, quale Autorità nazionale competente NIS di cui all'articolo 10, comma 1; \n\ne) «Punto di contatto unico NIS»: l'Agenzia per la cybersicurezza nazionale, quale Punto di contatto unico NIS di cui all'articolo 10, comma 2; \n\nf) «Autorità di settore NIS»: le Amministrazioni designate quali Autorità di settore di cui all'articolo 11, commi 1 e 2; \n\ng) «Autorità nazionali di gestione delle crisi informatiche»: per la parte relativa alla resilienza nazionale di cui all'articolo 1 del decreto-legge n. 82 del 2021, l'Agenzia per la cybersicurezza nazionale, con funzioni di coordinatore ai sensi dell'articolo 9, paragrafo 2, della direttiva (UE) 2022/2555, e, per la parte relativa alla difesa dello Stato, il Ministero della difesa, quali Autorità nazionali responsabili della gestione degli incidenti e delle crisi di cybersicurezza su vasta scala, di cui all'articolo 9 della direttiva (UE) 2022/2555; \n\nh) «CSIRT nazionali»: i Gruppi nazionali di risposta agli incidenti di sicurezza informatica di cui all'articolo 10, paragrafo 1, della direttiva (UE) 2022/2555 del Parlamento europeo e del Consiglio, del 14 dicembre 2022; \n\ni) «CSIRT Italia»: il Gruppo nazionale di risposta agli incidenti di sicurezza informatica ai sensi dell'articolo 15, comma 1, operante all'interno dell'Agenzia per la cybersicurezza nazionale; \n\nl) «Gruppo di cooperazione NIS»: il Gruppo di cooperazione di cui all'articolo 18, istituito ai sensi dell'articolo 14 della direttiva (UE) 2022/2555; \n\nm) «EU-CyCLONe»: la Rete delle organizzazioni di collegamento per le crisi informatiche di cui all'articolo 19, istituita ai sensi dell'articolo 16 della direttiva (UE) 2022/2555; \n\nn) «Rete di CSIRT nazionali»: la Rete di CSIRT nazionali di cui all'articolo 20, istituita ai sensi dell'articolo 15 della direttiva (UE) 2022/2555; \n\no) «ENISA»: l'Agenzia dell'Unione europea per la sicurezza informatica, di cui all'articolo 3 del regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019; \n\np) «sistema informativo e di rete»: \n 1) una rete di comunicazione elettronica ai sensi dell'articolo 2, comma 1, lettera vv), del decreto legislativo 1° agosto 2003, n. 259; \n 2) qualsiasi dispositivo o gruppo di dispositivi interconnessi o collegati, uno o più dei quali eseguono, in base ad un programma, un trattamento automatico di dati digitali; \n 3) i dati digitali conservati, elaborati, estratti o trasmessi per mezzo di reti o dispositivi di cui ai numeri 1) e 2), per il loro funzionamento, uso, protezione e manutenzione; \n\nq) «sicurezza dei sistemi informativi e di rete»: la capacità dei sistemi informativi e di rete di resistere, con un determinato livello di affidabilità, agli eventi che potrebbero compromettere la disponibilità, l'autenticità, l'integrità o la riservatezza dei dati conservati, trasmessi o elaborati o dei servizi offerti da tali sistemi informativi e di rete o accessibili attraverso di essi; \n\nr) «sicurezza informatica»: l'insieme delle attività necessarie per proteggere la rete e i sistemi informativi, gli utenti di tali sistemi e altre persone interessate dalle minacce informatiche, così come definito dall'articolo 2, punto 1), del regolamento (UE) 2019/881; \n\ns) «cybersicurezza»: ferme restando le definizioni di cui alle lettere q) e r), l'insieme delle attività di cui all'articolo 1, comma 1, lettera a), del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109; \n\nt) «incidente»: un evento che compromette la disponibilità, l'autenticità, l'integrità o la riservatezza di dati conservati, trasmessi o elaborati o dei servizi offerti dai sistemi informativi e di rete o accessibili attraverso di essi; \n\nu) «quasi-incidente»: cd. near-miss, un evento che avrebbe potuto configurare un incidente senza che quest'ultimo si sia tuttavia verificato, ivi incluso il caso in cui l'incidente sia stato efficacemente evitato; \n\nv) «incidente di sicurezza informatica su vasta scala»: un incidente che causa un livello di perturbazione superiore alla capacità di uno Stato membro di rispondervi o che ha un impatto significativo su almeno due Stati membri; \n\nz) «gestione degli incidenti»: le azioni e le procedure volte a prevenire, rilevare, analizzare e contenere un incidente o a rispondervi e recuperare da esso; \n\naa) «rischio»: la combinazione dell'entità dell'impatto di un incidente, in termini di danno o di perturbazione, e della probabilità che quest'ultimo si verifichi; \n\nbb) «minaccia informatica»: qualsiasi circostanza, evento o azione che potrebbe danneggiare, perturbare o avere un impatto negativo di altro tipo su sistemi informativi e di rete, sugli utenti di tali sistemi e altre persone, così come definita dall'articolo 2, punto 8), del regolamento (UE) 2019/881; \n\ncc) «minaccia informatica significativa»: una minaccia informatica che, in base alle sue caratteristiche tecniche, si presume possa avere un grave impatto sui sistemi informativi e di rete di un soggetto o sugli utenti dei servizi erogati da un soggetto causando perdite materiali o immateriali considerevoli; \n\ndd) «approccio multi-rischio»: cosiddetto approccio all-hazards, l'approccio alla gestione dei rischi che considera quelli derivanti da tutte le tipologie di minaccia ai sistemi informativi e di rete nonché al loro contesto fisico, quali furti, incendi, inondazioni, interruzioni, anche parziali, delle telecomunicazioni e della corrente elettrica, e in generale accessi fisici non autorizzati; \n\nee) «singoli punti di malfunzionamento»: cosiddetto single points of failure, singolo componente di un sistema da cui dipende il funzionamento del sistema stesso; \n\nff) «prodotto TIC»: un elemento o un gruppo di elementi di un sistema informativo o di rete, così come definito dall'articolo 2, punto 12), del regolamento (UE) 2019/881; \n\ngg) «servizio TIC»: un servizio consistente interamente o prevalentemente nella trasmissione, conservazione, recupero o elaborazione di informazioni per mezzo dei sistemi informativi e di rete così come definito dall'articolo 2, punto 13), del regolamento (UE) 2019/881; \n\nhh) «processo TIC»: un insieme di attività svolte per progettare, sviluppare, fornire o mantenere un prodotto TIC o servizio TIC, così come definito dall'articolo 2, punto 14), del regolamento (UE) 2019/881; \n\nii) «vulnerabilità»: un punto debole, una suscettibilità o un difetto di prodotti TIC o servizi TIC che può essere sfruttato da una minaccia informatica; \n\nll) «specifica tecnica»: una specifica tecnica quale definita all'articolo 2, punto 4), del regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012; \n\nmm) «punto di interscambio internet»: cosiddetto internet exchange point (IXP), un'infrastruttura di rete che consente l'interconnessione di più di due reti indipendenti (sistemi autonomi), principalmente al fine di agevolare lo scambio del traffico internet, che fornisce interconnessione soltanto ai sistemi autonomi e che non richiede che il traffico internet che passa tra qualsiasi coppia di sistemi autonomi partecipanti passi attraverso un terzo sistema autonomo né altera o interferisce altrimenti con tale traffico; \n\nnn) «sistema dei nomi di dominio»: cosiddetto domain name system (DNS), un sistema di nomi gerarchico e distribuito che consente l'identificazione di servizi e risorse su internet, permettendo ai dispositivi degli utenti finali di utilizzare i servizi di instradamento e connettività di internet al fine di accedere a tali servizi e risorse; \n\noo) «fornitore di servizi di sistema dei nomi di dominio»: un soggetto che fornisce alternativamente: \n 1) servizi di risoluzione dei nomi di dominio ricorsivi accessibili al pubblico per gli utenti finali di internet; \n 2) servizi di risoluzione dei nomi di dominio autoritativi per uso da parte di terzi, fatta eccezione per i server dei nomi radice (cosiddetto root nameserver); \n\npp) «gestore di registro dei nomi di dominio di primo livello»: cosiddetto registro dei nomi TLD (top level domain) o registry, soggetto cui è stato delegato uno specifico dominio di primo livello e che è responsabile dell'amministrazione di tale dominio di primo livello, compresa la registrazione dei nomi di dominio sotto tale dominio di primo livello, e del funzionamento tecnico di tale dominio di primo livello, compresi il funzionamento dei server dei nomi, la manutenzione delle banche dati e la distribuzione dei file di zona del dominio di primo livello tra i server dei nomi, indipendentemente dal fatto che una qualsiasi di tali operazioni sia effettuata dal soggetto stesso o sia esternalizzata, ma escludendo le situazioni in cui i nomi di dominio di primo livello sono utilizzati da un registro esclusivamente per uso proprio; \n\nqq) «fornitore di servizi di registrazione di nomi di dominio»: un registrar o un agente che agisce per conto di registrar, come un fornitore o un rivenditore di servizi di registrazione per la privacy o di proxy; \n\nrr) «servizio digitale»: qualsiasi servizio della società dell'informazione, vale a dire qualsiasi servizio prestato normalmente dietro retribuzione, a distanza, per via elettronica e a richiesta individuale di un destinatario di servizi, quale definito all'articolo 1, paragrafo 1, lettera b), della direttiva (UE) 2015/1535 del Parlamento europeo e del Consiglio, del 9 settembre 2015; \n\nss) «servizio fiduciario»: un servizio fiduciario quale definito all'articolo 3, punto 16), del regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2024; \n\ntt) «prestatore di servizi fiduciari»: una persona fisica o giuridica che presta uno o più servizi fiduciari, o come prestatore di servizi fiduciari qualificato o come prestatore di servizi fiduciari non qualificato, quale definito all'articolo 3, punto 19), del regolamento (UE) n. 910/2014; \n\nuu) «servizio fiduciario qualificato»: un servizio fiduciario che soddisfa i requisiti pertinenti stabiliti nel regolamento (UE) n. 910/2014, ai sensi dell'articolo 3, punto 17) dello stesso; \n\nvv) «prestatore di servizi fiduciari qualificato»: un prestatore di servizi fiduciari che presta uno o più servizi fiduciari qualificati e cui l'organismo di vigilanza assegna la qualifica di prestatore di servizi fiduciari qualificato, quale definito all'articolo 3, punto 20), del regolamento (UE) n. 910/2014; \n\nzz) «mercato online»: un servizio che utilizza un software, compresi siti web, parte di siti web o un'applicazione, gestito da o per conto del professionista, che permette ai consumatori di concludere contratti a distanza con altri professionisti o consumatori, quale definito all'articolo 2, lettera n), della direttiva 2005/29/CE del Parlamento europeo e del Consiglio, dell'11 maggio 2005; \n\naaa) «motore di ricerca online»: un servizio digitale che consente all'utente di formulare domande al fine di effettuare ricerche, in linea di principio, su tutti i siti web, o su tutti i siti web in una lingua particolare, sulla base di un'interrogazione su qualsiasi tema sotto forma di parola chiave, richiesta vocale, frase o di altro input, e che restituisce i risultati in qualsiasi formato in cui possono essere trovate le informazioni relative al contenuto richiesto, quale definito all'articolo 2, punto 5), del regolamento (UE) 2019/1150 del Parlamento europeo e del Consiglio, del 20 giugno 2019; \n\nbbb) «servizio di cloud computing»: un servizio digitale che consente l'amministrazione su richiesta di un pool scalabile ed elastico di risorse di calcolo condivisibili e l'ampio accesso remoto a quest'ultimo, anche ove tali risorse sono distribuite in varie ubicazioni; \n\nccc) «servizio di data center»: un servizio che comprende strutture, o gruppi di strutture, dedicate a ospitare in modo centralizzato, interconnettere e far funzionare apparecchiature informatiche e di rete che forniscono servizi di conservazione, elaborazione e trasporto di dati insieme a tutti gli impianti e le infrastrutture per la distribuzione dell'energia e il controllo ambientale; \n\nddd) «rete di distribuzione dei contenuti»: cosiddetta content delivery network (CDN), una rete di server distribuiti geograficamente allo scopo di garantire l'elevata disponibilità, l'accessibilità o la rapida distribuzione di contenuti e servizi digitali agli utenti di internet per conto di fornitori di contenuti e servizi; \n\neee) «piattaforma di servizi di social network»: una piattaforma che consente agli utenti finali di entrare in contatto, condividere, scoprire e comunicare gli uni con gli altri su molteplici dispositivi, in particolare, attraverso chat, post, video e raccomandazioni; \n\nfff) «rete pubblica di comunicazione elettronica»: una rete di comunicazione elettronica, utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di rete, quale definita all'articolo 2, punto 8), della direttiva (UE) 2018/1972 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018; \n\nggg) «servizio di comunicazione elettronica»: un servizio di comunicazione elettronica quale definito all'articolo 2, punto 4), della direttiva (UE) 2018/1972; \n\nhhh) «soggetto»: una persona fisica o giuridica, costituita e riconosciuta come tale conformemente al diritto nazionale applicabile nel suo luogo di stabilimento, che può, agendo in nome proprio, esercitare diritti ed essere soggetta a obblighi; \n\niii) «fornitore di servizi gestiti»: un soggetto che fornisce servizi relativi all'installazione, alla gestione, al funzionamento o alla manutenzione di prodotti, reti, infrastrutture, applicazioni TIC o di qualsiasi altro sistema informativo e di rete, tramite assistenza o amministrazione attiva effettuata nei locali dei clienti o a distanza; \n\nlll) «fornitore di servizi di sicurezza gestiti»: un fornitore di servizi gestiti che svolge o fornisce assistenza per attività relative alla gestione dei rischi di sicurezza informatica; \n\nmmm) «organismo di ricerca»: un soggetto che ha come obiettivo principale lo svolgimento di attività di ricerca applicata o di sviluppo sperimentale al fine di sfruttare i risultati di tale ricerca a fini commerciali, ma che non comprende gli istituti di istruzione; \n\nnnn) «audit»: attività di verifica, a distanza o in loco, sistematica, documentata e indipendente che ha come scopo quello di vagliare la corrispondenza agli obblighi di cui al capo IV del presente decreto, effettuata da un organismo indipendente qualificato o dall'Autorità nazionale competente NIS. \n\n\n\n",
+    "title": " Definizioni",
+    "links": [
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art5"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art8"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021",
+            "number": "82",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259"
+        },
+        {
+            "law_maker": "",
+            "source": "regolamento",
+            "date": "2019",
+            "number": "881"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "",
+            "source": "regolamento",
+            "date": "2019",
+            "number": "881"
+        },
+        {
+            "law_maker": "",
+            "source": "regolamento",
+            "date": "2019",
+            "number": "881"
+        },
+        {
+            "law_maker": "",
+            "source": "regolamento",
+            "date": "2019",
+            "number": "881"
+        },
+        {
+            "law_maker": "",
+            "source": "regolamento",
+            "date": "2019",
+            "number": "881"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2021-08-04",
+            "number": "109"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124"
+        },
+        {
+            "law_maker": "presidente.consiglio",
+            "source": "decreto",
+            "date": "2020-07-30",
+            "number": "131"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legge",
+            "date": "2021-06-14",
+            "number": "82"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2019-11-18",
+            "number": "133"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "1988-08-23",
+            "number": "400",
+            "article": "art18"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2001-03-30",
+            "number": "165",
+            "article": "art1"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art31"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007-08-03",
+            "number": "124",
+            "article": "art6"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124",
+            "article": "art7"
+        },
+        {
+            "law_maker": "stato",
+            "source": "legge",
+            "date": "2007",
+            "number": "124",
+            "article": "art9"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-08-01",
+            "number": "259"
+        }
+    ]
+}

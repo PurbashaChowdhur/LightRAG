@@ -1,0 +1,32 @@
+{
+    "full_id": "Art. 8",
+    "id": 8,
+    "content": "\n\n1. L'Agenzia per la cybersicurezza nazionale, le Autorità di settore NIS e i soggetti di cui all'articolo 3 trattano i dati personali nella misura necessaria ai fini del presente decreto e conformemente al decreto legislativo 30 giugno 2003, n. 196 e al regolamento (UE) 2016/679. \n\n\n\n2. Il trattamento dei dati personali ai sensi del presente decreto da parte dei fornitori di reti pubbliche di comunicazione elettronica o dei fornitori di servizi di comunicazione elettronica accessibili al pubblico viene effettuato in conformità della legislazione dell'Unione europea in materia di protezione dei dati e della legislazione dell'Unione europea in materia di tutela della vita privata, ai sensi della direttiva 2002/58/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002. \n\n\n",
+    "title": " Protezione dei dati personali",
+    "links": [
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-06-30",
+            "number": "196"
+        },
+        {
+            "law_maker": "",
+            "source": "regolamento",
+            "date": "2016",
+            "number": "679"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-06-30",
+            "number": "196"
+        },
+        {
+            "law_maker": "stato",
+            "source": "decreto.legislativo",
+            "date": "2003-06-30",
+            "number": "196"
+        }
+    ]
+}

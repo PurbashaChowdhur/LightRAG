@@ -11,7 +11,7 @@ BATCH_SIZE_EDGES = 100
 # Neo4j connection credentials
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USERNAME = "neo4j"
-NEO4J_PASSWORD = "your_password"
+NEO4J_PASSWORD = "Purbasha@lightrag"
 
 
 def convert_xml_to_json(xml_path, output_path):
@@ -40,8 +40,8 @@ def process_in_batches(tx, query, data, batch_size):
 
 def main():
     # Paths
-    xml_file = os.path.join(WORKING_DIR, "graph_chunk_entity_relation.graphml")
-    json_file = os.path.join(WORKING_DIR, "graph_data.json")
+    xml_file = os.path.join(WORKING_DIR, "C:\\Users\\chwdh\\PycharmProjects\\ai act\\ai act\\rag\\graph_chunk_entity_relation.graphml")
+    json_file = os.path.join(WORKING_DIR, "C:\\Users\\chwdh\\PycharmProjects\\LightRAG\\examples\\graph_data.json")
 
     # Convert XML to JSON
     json_data = convert_xml_to_json(xml_file, json_file)

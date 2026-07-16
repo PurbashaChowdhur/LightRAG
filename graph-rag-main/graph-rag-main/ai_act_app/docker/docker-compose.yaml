@@ -1,0 +1,60 @@
+services:
+  minio:
+    container_name: platform-minio
+    image: minio/minio
+    working_dir: "/minio/storage"
+    ports:
+      - "9900:9000"
+      - "9901:9001"
+    environment:
+      MINIO_ROOT_USER: "minioadmin"
+      MINIO_ROOT_PASSWORD: "minioadmin"
+    command: server /minio/storage --console-address ":9001"
+    # restart: always
+    healthcheck:
+      test: mc ready local
+      interval: 10s
+      timeout: 10s
+      retries: 5
+    volumes:
+      - ./volumes/minio/storage:/minio/storage
+    networks:
+      - ai_act
+  streamlit:
+    image: ai_act_app:streamlit
+    container_name: ai-act-streamlit
+    environment:
+      - OPENAI_API_KEY=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
+      - FAST_API_LIGHTRAG_ENDPOINT=http://ai-act-fastapi:8090
+      - FAST_API_GRAPHREADER_ENDPOINT=http://ai-act-fastapi:8091
+      - MONGO_DB_HOSTNAME=mongodb
+    ports:
+      - 8502:8502
+    networks:
+      - ai_act
+  fastapi:
+    image: ai_act_app:fastapi
+    container_name: ai-act-fastapi
+    environment:
+      - OBJECT_STORAGE_ENDPOINT=minio:9000
+    # ports:
+    #  - 8502:8502
+    depends_on:
+      - minio
+    networks:
+      - ai_act
+  mongodb:
+    image: mongodb/mongodb-community-server:latest
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=user
+      - MONGO_INITDB_ROOT_PASSWORD=Passw0rd!
+    ports:
+      - "27018:27017"
+    volumes:
+      - ./volumes/minio/mongodb:/data/db
+    networks:
+      - ai_act
+
+networks:
+  ai_act:
+    driver: bridge
