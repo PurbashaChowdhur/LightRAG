@@ -19,7 +19,7 @@ if not os.path.exists(WORKING_DIR):
 print(f"WorkingDir: {WORKING_DIR}")
 
 os.environ[
-    "OPENAI_API_KEY"] = "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"
+    "OPENAI_API_KEY"] = ""
 
 
 class RAG:
