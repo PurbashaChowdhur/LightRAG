@@ -1,0 +1,247 @@
+Retrieving answer for question: What risk categories are provided for AI systems?
+### Risk Categories for AI Systems
+
+AI systems are categorized based on the associated risks they present, specifically highlighted in the regulatory framework established by the European Union. Here are the primary categories:
+
+1. **High-Risk AI Systems**: 
+   - These systems are identified as posing significant risks to health, safety, and fundamental rights. They require stricter regulations before market introduction, including comprehensive evaluations and assessments to ensure compliance with safety and ethical standards. High-risk AI systems can have a profound impact on sensitive sectors such as law enforcement, migration, and border control, where the implications can be far-reaching.
+
+2. **General-Purpose AI Models**: 
+   - While not categorized as high-risk by default, these models can fall under this classification depending on their applications. If they exhibit capabilities that potentially lead to systemic risks, they may require adherence to similar stringent compliance measures as those faced by high-risk AI systems.
+
+3. **Vulnerable Groups Impact**: 
+   - AI systems can disproportionately affect vulnerable groups, necessitating additional protections. This category underscores the ethical considerations surrounding the deployment of AI systems in ways that could lead to discrimination or exploitation.
+
+4. **Systemic Risks**: 
+   - These risks refer to potential widespread negative impacts that could arise from using AI technologies, especially general-purpose AI models. Systemic risks emphasize the necessity for thorough risk assessments to mitigate adverse effects on society or the economy.
+
+5. **Compliance Obligations**: 
+   - Various obligations are defined under the Regulation that AI systems must fulfill, particularly regarding safety standards, transparency, and ethical implications. Compliance frameworks ensure that applicable AI systems are evaluated for risks and regulated accordingly.
+
+### Summary
+The differentiation of AI systems into these risk categories is vital for regulatory compliance and for safeguarding individual rights and societal norms, especially in contexts where AI technologies are deployed in sensitive areas.
+
+### References
+- [KG] ./cached_docs/article_7.json
+- [KG] ./cached_docs/article_40.json
+- [KG] ./cached_docs/article_15.json
+- [KG] ./cached_docs/recital_110.json
+- [KG] ./cached_docs/recital_64.json
+Retrieving answer for question: What types of AI systems or practices are explicitly prohibited by the AI Act?
+### Prohibited AI Systems and Practices under the AI Act
+
+The AI Act outlines specific prohibitions aimed at safeguarding individuals' rights and ensuring ethical standards in the deployment of AI technologies. Below are the primary categories of AI systems and practices that are explicitly prohibited:
+
+1. **Subliminal Techniques**:
+   - The Act prohibits the use of AI systems that deploy subliminal techniques beyond a person's conscious awareness or use manipulative or deceptive methods that significantly distort a person's ability to make informed decisions.
+
+2. **Exploitation of Vulnerabilities**:
+   - AI systems that exploit the vulnerabilities of individuals or specific groups based on factors such as age, disability, or socio-economic status are banned. This prohibition is aimed at preventing any form of abuse that may lead to significant harm.
+
+3. **Social Scoring**:
+   - The use of AI systems for the evaluation or classification of natural persons based on social behavior, known characteristics, or inferred personal attributes is prohibited. This can lead to unjust treatment of individuals based on social scores.
+
+4. **Criminal Profiling**:
+   - AI systems that assess or predict the risk of a natural person committing a criminal offense based solely on profiling or personality traits are prohibited. However, systems supporting human assessments based on objective facts are exempt from this prohibition.
+
+5. **Facial Recognition and Emotion Detection**:
+   - AI systems that create or expand databases for facial recognition without proper oversight or that aim to detect emotions in specific contexts such as workplaces or educational institutions are prohibited unless they serve medical or safety purposes.
+
+### Conclusion
+
+These prohibitions are part of a broader regulatory framework designed to ensure that AI systems uphold fundamental rights, prevent discrimination, and foster ethical practices in their development and application.
+
+### References
+- [KG] ./cached_docs/article_5.json
+- [KG] ./cached_docs/recital_29.json
+- [KG] ./cached_docs/recital_31.json
+- [KG] ./cached_docs/recital_44.json
+- [KG] ./cached_docs/recital_58.json
+Retrieving answer for question: What is the definition of high risk?
+### Definition of High Risk
+
+In the context of artificial intelligence (AI) and regulatory frameworks, "high risk" refers to situations, systems, or applications that pose significant challenges or dangers, particularly concerning the health and safety of individuals. High-risk situations are characterized by the potential for severe negative consequences, including harm to fundamental rights, safety, and well-being. These risks necessitate careful assessment and management due to the critical nature of decisions made in such contexts that can impact individuals and society at large.
+
+High-risk categories, especially in AI, require stringent oversight, comprehensive risk assessment, and compliance with established safety standards to mitigate potential harms. This emphasizes the importance of responsible governance and ethical considerations in deploying technologies that interact closely with human lives and rights.
+
+### References
+
+1. [KG] ./cached_docs/recital_58.json
+2. [KG] ./cached_docs/article_3.json
+3. [KG] ./cached_docs/recital_126.json
+4. [KG] ./cached_docs/recital_5.json
+5. [KG] ./cached_docs/recital_66.json
+Retrieving answer for question: Which sectors or applications are considered high-risk under the regulation?
+### High-Risk Sectors and Applications
+
+Under the regulation, several sectors and applications are classified as high-risk due to their significant potential impact on individuals' rights, health, and safety. Some of these key areas include:
+
+1. **Law Enforcement**: AI systems used in policing and criminal justice may influence critical decisions affecting individual liberties and legal outcomes.
+
+2. **Healthcare**: AI systems utilized for medical diagnostics and treatment planning need stringent oversight to ensure patient safety and compliance with health standards.
+
+3. **Financial Services**: Applications for evaluating credit scores and risk in insurance can impact access to essential services and may lead to discrimination.
+
+4. **Public Administration**: AI systems determining social assistance benefits, public health decisions, and other governmental services must conform to high-risk compliance standards.
+
+5. **Critical Infrastructure**: Systems in sectors such as energy, water supply, and transportation, which directly affect public safety and well-being, fall under this classification.
+
+By concentrating regulatory efforts on these high-risk sectors, the regulation aims to mitigate the potential adverse effects of AI systems on society.
+
+### References
+- [KG] ./cached_docs/article_1.json
+- [KG] ./cached_docs/article_4.json
+- [KG] ./cached_docs/article_58.json
+- [KG] ./cached_docs/article_17.json
+- [KG] ./cached_docs/article_19.json
+Retrieving answer for question: How should users be informed when interacting with AI systems?
+### User Notification When Interacting with AI Systems
+
+When users are interacting with AI systems, particularly those designed to interact directly with natural persons or to handle sensitive information, there are specific obligations designed to ensure transparency. Here are the key points regarding user notifications:
+
+1. **Clear Notification Requirement**: Users must be clearly informed when they are interacting with an AI system. This requirement applies unless the interaction is evident based on reasonable discernment by the user. If users are engaging with AI systems that process biometric data to identify or infer emotions, they should also receive specific notifications.
+
+2. **Vulnerable Groups Consideration**: Special attention must be given when the AI system interacts with vulnerable groups, such as those with disabilities or older individuals. Notifications provided to these groups should be accessible and comprehensible, ensuring that their rights are protected effectively.
+
+3. **Transparency in AI Outputs**: For AI systems that generate or manipulate content (e.g., deep fakes), providers must disclose that the content produced has been artificially generated or manipulated. This transparency obligation helps maintain accountability and enriches user understanding of the content they are engaging with.
+
+4. **Timing of Notifications**: The information about the nature of the interaction should be provided distinctly at the latest by the time of the first interaction, ensuring that users are aware of their engagement with AI technologies right from the beginning.
+
+5. **Compliance with Existing Laws**: The notifications and interactions with AI systems must also comply with relevant legal frameworks, such as the EU's General Data Protection Regulation (GDPR) and other national regulations that enforce personal data protection and privacy rights.
+
+By following these guidelines, the interaction with AI systems can be more ethical and transparent, thereby enhancing trust and understanding among users.
+
+### References
+- [KG] ./cached_docs/article_50.json
+- [KG] ./cached_docs/recital_132.json
+- [KG] ./cached_docs/recital_31.json
+- [DC] ./cached_docs/recital_44.json
+- [DC] ./cached_docs/recital_137.json
+Retrieving answer for question: What are AI systems with minimal risks?
+### AI Systems with Minimal Risks
+
+AI systems classified as having minimal risks are typically those that perform limited, narrow, procedural tasks and do not materially influence decision-making outcomes in significant ways. Such systems are not likely to pose a substantial threat to health, safety, or the fundamental rights of individuals. The determination of minimal risk is based on specific conditions outlined in relevant regulations.
+
+#### Conditions for Classification as Minimal Risk
+
+1. **Narrow Procedural Tasks**: AI systems that are designed to carry out straightforward tasks, such as data classification or document processing, may be categorized as minimal risk. Their functions are usually non-intrusive and lack significant impact on users' lives.
+
+2. **Supporting Human Activities**: Systems intended to enhance or improve previously completed human activities without replacing or impacting the original assessment are also viewed as minimal risk. For instance, they could aid in refining language or organizing information.
+
+3. **Detection of Patterns**: AI systems used solely for identifying patterns or reporting deviations from expected outcomes, while ensuring that any conclusions drawn are based on prior human assessments, may qualify for minimal risk due to their limited scope.
+
+4. **Preparatory Tasks**: AI systems that perform preparatory functions before an assessment—without influencing the actual decision—are classified as minimal risk, as their direct impact on outcomes is considerably reduced.
+
+5. **Non-influential Systems**: Certain AI systems may not substantially affect the outcome of decision-making processes. For example, those used for administrative tasks where decisions are primarily human-driven and any AI contribution does not alter the core outcomes can fall under this category.
+
+These classifications reflect a regulatory understanding aimed at ensuring a balanced approach to AI development, particularly focusing on transparency and safety.
+
+### References
+
+- [KG] ./cached_docs/recital_53.json
+- [KG] ./cached_docs/recital_54.json
+- [DC] ./cached_docs/recital_6.json
+- [DC] ./cached_docs/article_6.json
+- [DC] ./cached_docs/recital_61.json
+Retrieving answer for question: What are the guiding principles established by the AI Act?
+### Guiding Principles Established by the AI Act
+
+The AI Act promotes a structured and ethical approach to artificial intelligence systems within the regulatory framework established by the European Union. The key guiding principles include:
+
+1. **Human Agency and Oversight**: AI systems should be developed and used in a manner that ensures they serve human interests and uphold human dignity and autonomy. This principle emphasizes that AI technology must be controllable and overseen by humans.
+
+2. **Technical Robustness and Safety**: It is crucial for AI systems to be designed in a way that accounts for their robustness and safety to minimize risks of malfunction or misuse while maintaining effective operational capabilities.
+
+3. **Privacy and Data Governance**: The development and use of AI must align with established privacy and data protection rules. This principle ensures high standards for the quality and integrity of the data being processed.
+
+4. **Transparency**: AI systems should be accountable, with operations clearly communicated, allowing users to comprehend their actions and implications effectively. This includes proper documentation of the system's functionalities and limitations.
+
+5. **Diversity, Non-discrimination, and Fairness**: The development of AI systems should aim to include diverse perspectives, promote equal access, and prevent discriminatory outcomes. It is essential to align with principles of fairness as stipulated by Union or national laws.
+
+6. **Societal and Environmental Well-being**: AI systems should be implemented in a sustainable and environmentally friendly way, considering their broader impact on society. 
+
+7. **Accountability**: Developers and deployers of AI systems must ensure compliance with ethical principles and regulations, reinforcing the importance of responsibility in the development and application of AI technologies.
+
+These principles serve as foundational elements for creating a trustworthy and ethical landscape for AI within the EU, guiding the formulation of specific rules and regulations.
+
+### References
+1. [KG] ./cached_docs/recital_27.json
+2. [KG] ./cached_docs/recital_6.json
+3. [DC] ./cached_docs/article_1.json
+4. [KG] ./cached_docs/article_40.json
+5. [DC] ./cached_docs/recital_53.json
+Retrieving answer for question: What is the definition of a "system of artificial intelligence"?
+### Definition of a System of Artificial Intelligence
+
+A "system of artificial intelligence" refers to a technological framework built upon algorithms and models designed to perform tasks that require human-like intelligence. This includes functions such as learning, problem-solving, data processing, and decision-making. The capability of AI systems to infer outputs from inputs allows them to generate predictions, recommendations, or automated responses, often significantly influencing both physical and virtual environments.
+
+These systems are characterized by their autonomous operation, meaning they can function independently without direct human intervention in various contexts. The adaptiveness of AI systems permits them to learn and improve over time based on new data encountered during their operation. Importantly, AI systems encompass a wide range of applications, from general-purpose AI models that can serve multiple objectives to specialized systems focused on specific tasks, and they involve ethical considerations regarding their use and impact on society.
+
+### Key Characteristics
+1. **Inference Capability**: Ability to derive actionable outputs from processed data.
+2. **Autonomy**: Varying degrees of operational independence from human control.
+3. **Adaptiveness**: Capability to learn and enhance performance post-deployment.
+4. **Integration**: Often part of larger infrastructures or as a component of products.
+
+In summary, AI systems leverage advanced techniques to emulate human cognitive functions, which significantly transform various sectors and societal processes.
+
+### References
+- [KG] ./cached_docs/article_3.json
+- [KG] ./cached_docs/article_7.json
+- [KG] ./cached_docs/recital_12.json
+- [KG] ./cached_docs/article_68.json
+- [KG] ./cached_docs/recital_97.json
+Retrieving answer for question: What are the penalties for violating the provisions of the regulation for high-risk AI systems?
+### Penalties for Violating Provisions of the Regulation
+
+Violations of the provisions related to high-risk AI systems under the regulation can result in significant administrative fines. Here are the key aspects of the penalties:
+
+1. **Types of Violations and Corresponding Fines**:
+   - Non-compliance with the prohibition of specific AI practices as outlined in Article 5 may incur **administrative fines of up to €35,000,000** or **up to 7% of total worldwide annual turnover** for the preceding financial year, whichever is higher.
+   - For non-compliance with other obligations under the regulation, the fines can be up to **€15,000,000** or **3% of the total worldwide annual turnover**, whichever is higher.
+   - Providing incorrect, incomplete, or misleading information may lead to fines of up to **€7,500,000** or **1% of total worldwide annual turnover**.
+
+2. **Factors Influencing Penalty Amounts**:
+   - When determining the amount of the penalty, authorities consider several factors such as the nature, gravity, and duration of the infringement, the level of damage suffered, and whether the operator has cooperated with authorities to remedy the situation.
+   - Specific rules for administrative fines imposed on public authorities may also apply, where Member States are required to define these rules effectively.
+
+3. **Reporting and Enforcement**:
+   - Administrative fines collected contribute to the budget of the European Union.
+   - Member States must notify the European Commission of the rules on penalties and any subsequent amendments.
+
+4. **Opportunity for Hearing**:
+   - Before decisions regarding fines are made, the concerned party is given the opportunity to be heard, allowing for a fair assessment of the case.
+
+5. **Implementation Timeline**:
+   - The provisions regarding penalties will come into effect from **2 August 2025**.
+
+These measures are designed to ensure compliance and promote safety standards among operators of high-risk AI systems.
+
+### References
+- [KG] Regulation - ./cached_docs/article_99.json
+- [KG] Administrative Fines - ./cached_docs/article_100.json
+- [DC] Administrative Fines - ./cached_docs/recital_168.json
+- [DC] Penalties - ./cached_docs/article_99.json
+- [DC] Laws and Regulations on Fines - ./cached_docs/article_101.json
+Retrieving answer for question: What is the difference between the deployer and the provider?
+### Differences Between Deployer and Provider
+
+**Deployer:**
+- A deployer is an individual or organization that implements and operates artificial intelligence (AI) systems, particularly those classified as high-risk. They are responsible for putting AI systems into service and supervising their performance while ensuring compliance with regulations.
+- Deployers must possess a thorough understanding of how AI systems work to interpret their outputs accurately. They are also engaged in tasks such as managing operational standards and ensuring that users are trained to utilize the systems effectively.
+- They must follow the instructions for use associated with the AI systems and manage any risks that arise from their deployment. Deployers have specific obligations defined by regulations related to high-risk AI systems, including monitoring the functionality of these systems, maintaining logs, and informing relevant authorities about incidents.
+
+**Provider:**
+- A provider refers to a natural or legal person, including public authorities and agencies, that develops or develops an AI system or a general-purpose AI model, places it on the market, or puts it into service under their own name or trademark.
+- Providers are responsible for the creation, testing, documentation, and the declaration of conformity for the AI systems to ensure they meet established safety and regulatory standards. They must design the systems with specific intended purposes in mind and communicate these to deployers.
+- Providers also play a critical role in ensuring that the AI systems comply with the necessary regulations before deployment. They are tasked with developing risk management measures and providing necessary support and documentation to deployers.
+
+### Conclusion
+The primary distinction between deployers and providers lies in their roles: deployers implement and manage AI systems within operational contexts, while providers are involved in the development and compliance aspects of these AI systems. Deployers adapt the systems for use, whereas providers design and ensure the systems meet legal standards.
+
+### References
+1. [KG] ./cached_docs/article_20.json
+2. [KG] ./cached_docs/recital_65.json
+3. [KG] ./cached_docs/article_26.json
+4. [KG] ./cached_docs/recital_13.json
+5. [KG] ./cached_docs/article_43.json
